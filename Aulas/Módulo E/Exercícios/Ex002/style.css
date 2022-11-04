@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(169, 169, 245);
+    background-color: rgb(245, 169, 226);
     font: normal 15pt arial;
 }
 
@@ -24,9 +24,8 @@ div {
     padding: 10px;
 }
 
-
-img {
-    padding: 10px;
+div#res > select {
+    text-align: center;
 }
 
 footer {
